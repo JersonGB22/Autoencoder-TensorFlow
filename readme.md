@@ -22,16 +22,18 @@ Implementations have been done in both TensorFlow and PyTorch, the two most wide
 ## **Results achieved by the models**
 
 <div style="display: flex; justify-content: center;">
-    <div style="display: flex; justify-content: center; max-width: 1200px;">
+    <div style="display: flex; justify-content: center; max-width: 800px;">
         <img src="images/ConvAutoencoder_Denoising_MNIST.png" style="width: 400px; margin-left: -50px;">
         <img src="images/ConvAutoencoder_CIFAR10.png" style="width: 400px; margin-left: -50px;">
-        <img src="images/ConvAutoencoder_Denoising_FashionMNIST.png" style="width: 400px; margin-left: -50px;">
     </div>
 </div>
 
-<p align="center">
-<img src="images/ConvAutoencoder_Denoising_TextImage.png" style="width: 1000px;"> 
-</p>
+<div style="display: flex; justify-content: center;">
+    <div style="display: flex; justify-content: center; max-width: 1200px;">
+        <img src="images/ConvAutoencoder_Denoising_FashionMNIST.png" style="width: 400px; margin-left: -50px;">
+        <img src="images/ConvAutoencoder_Denoising_TextImage.png" style="width: 800px; margin-left: -50px;">
+    </div>
+</div>
 
 *More examples can be found in the model notebooks.*
 
