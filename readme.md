@@ -28,12 +28,13 @@ Implementations have been done in both TensorFlow and PyTorch, the two most wide
     </div>
 </div>
 
-<div style="display: flex; justify-content: center;">
-    <div style="display: flex; justify-content: center; max-width: 1200px;">
-        <img src="images/ConvAutoencoder_Denoising_FashionMNIST.png" style="width: 400px; margin-left: -50px;">
-        <img src="images/ConvAutoencoder_Denoising_TextImage.png" style="width: 800px; margin-left: -100px;">
-    </div>
-</div>
+<p align="center">
+<img src="images/ConvAutoencoder_Denoising_FashionMNIST.png""> 
+</p>
+
+<p align="center">
+<img src="images/ConvAutoencoder_Denoising_TextImage.png" style="width: 1000px;"> 
+</p>
 
 *More examples can be found in the model notebooks.*
 
